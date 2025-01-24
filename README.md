@@ -1,2 +1,2 @@
 # DDI-SM-BT
-drug drug interaction -- Small molecule- bitoech
+drug drug interaction -- Small molecule- biotech
