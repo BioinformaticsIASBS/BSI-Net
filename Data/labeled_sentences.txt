@@ -1,0 +1,192 @@
+1: The metabolism of drug2 can be increased when combined with drug1.
+1: The metabolism of drug1 can be increased when combined with drug2.
+2: The risk or severity of adverse effects can be increased when drug2 is combined with drug1.
+2: The risk or severity of adverse effects can be increased when drug1 is combined with drug2.
+3: drug1 may decrease the excretion rate of drug2 which could result in a higher serum level.
+3: drug2 may decrease the excretion rate of drug1 which could result in a higher serum level.
+4: The therapeutic efficacy of drug1 can be decreased when used in combination with drug2.
+4: The therapeutic efficacy of drug2 can be decreased when used in combination with drug1.
+5: The risk or severity of hypoglycemia can be increased when drug2 is combined with drug1.
+5: The risk or severity of hypoglycemia can be increased when drug1 is combined with drug2.
+6: The serum concentration of drug1 can be increased when it is combined with drug2.
+6: The serum concentration of drug2 can be increased when it is combined with drug1.
+7: The risk or severity of bleeding can be increased when drug2 is combined with drug1.
+7: The risk or severity of bleeding can be increased when drug1 is combined with drug2.
+8: The metabolism of drug2 can be decreased when combined with drug1.
+8: The metabolism of drug1 can be decreased when combined with drug2.
+9: The risk or severity of methemoglobinemia can be increased when drug1 is combined with drug2.
+9: The risk or severity of methemoglobinemia can be increased when drug2 is combined with drug1.
+10: drug2 may increase the thrombogenic activities of drug1.
+10: drug1 may increase the thrombogenic activities of drug2.
+11: The therapeutic efficacy of drug1 can be increased when used in combination with drug2.
+11: The therapeutic efficacy of drug2 can be increased when used in combination with drug1.
+12: The risk or severity of hyperglycemia can be increased when drug2 is combined with drug1.
+12: The risk or severity of hyperglycemia can be increased when drug1 is combined with drug2.
+13: The risk or severity of bleeding and hemorrhage can be increased when drug2 is combined with drug1.
+13: The risk or severity of bleeding and hemorrhage can be increased when drug1 is combined with drug2.
+14: The risk or severity of QTc prolongation can be increased when drug1 is combined with drug2.
+14: The risk or severity of QTc prolongation can be increased when drug2 is combined with drug1.
+15: The risk or severity of CNS depression can be increased when drug1 is combined with drug2.
+15: The risk or severity of CNS depression can be increased when drug2 is combined with drug1.
+16: drug2 may increase the hypoglycemic activities of drug1.
+16: drug1 may increase the hypoglycemic activities of drug2.
+17: The risk or severity of Thrombosis can be increased when drug2 is combined with drug1.
+17: The risk or severity of Thrombosis can be increased when drug1 is combined with drug2.
+18: drug1 may increase the excretion rate of drug2 which could result in a lower serum level and potentially a reduction in efficacy.
+18: drug2 may increase the excretion rate of drug1 which could result in a lower serum level and potentially a reduction in efficacy.
+19: drug2 may increase the immunosuppressive activities of drug1.
+19: drug1 may increase the immunosuppressive activities of drug2.
+20: drug1 may increase the hypotensive activities of drug2.
+20: drug2 may increase the hypotensive activities of drug1.
+21: drug1 may decrease the hypoglycemic activities of drug2.
+21: drug2 may decrease the hypoglycemic activities of drug1.
+22: The risk or severity of immunosuppression can be increased when drug1 is combined with drug2.
+22: The risk or severity of immunosuppression can be increased when drug2 is combined with drug1.
+23: drug2 may increase the anticoagulant activities of drug1.
+23: drug1 may increase the anticoagulant activities of drug2.
+24: The risk or severity of neutropenia can be increased when drug1 is combined with drug2.
+24: The risk or severity of neutropenia can be increased when drug2 is combined with drug1.
+25: The risk or severity of angioedema can be increased when drug1 is combined with drug2.
+25: The risk or severity of angioedema can be increased when drug2 is combined with drug1.
+26: The risk or severity of infection can be increased when drug2 is combined with drug1.
+26: The risk or severity of infection can be increased when drug1 is combined with drug2.
+27: The serum concentration of drug2 can be decreased when it is combined with drug1.
+27: The serum concentration of drug1 can be decreased when it is combined with drug2.
+28: The risk or severity of neutropenia and thrombocytopenia can be increased when drug2 is combined with drug1.
+28: The risk or severity of neutropenia and thrombocytopenia can be increased when drug1 is combined with drug2.
+29: drug1 may increase the bradycardic activities of drug2.
+29: drug2 may increase the bradycardic activities of drug1.
+30: The risk or severity of hemorrhage can be increased when drug2 is combined with drug1.
+30: The risk or severity of hemorrhage can be increased when drug1 is combined with drug2.
+31: drug2 may decrease the anticoagulant activities of drug1.
+31: drug1 may decrease the anticoagulant activities of drug2.
+32: drug1 may increase the myelosuppressive activities of drug2.
+32: drug2 may increase the myelosuppressive activities of drug1.
+33: The risk or severity of myelosuppression can be increased when drug2 is combined with drug1.
+33: The risk or severity of myelosuppression can be increased when drug1 is combined with drug2.
+34: drug2 may increase the gastrointestinal motility reducing activities of drug1.
+34: drug1 may increase the gastrointestinal motility reducing activities of drug2.
+35: The risk or severity of myopathy, rhabdomyolysis, and myoglobinuria can be increased when drug1 is combined with drug2.
+35: The risk or severity of myopathy, rhabdomyolysis, and myoglobinuria can be increased when drug2 is combined with drug1.
+36: The risk or severity of cardiotoxicity can be increased when drug1 is combined with drug2.
+36: The risk or severity of cardiotoxicity can be increased when drug2 is combined with drug1.
+37: The risk or severity of bleeding and bruising can be increased when drug1 is combined with drug2.
+37: The risk or severity of bleeding and bruising can be increased when drug2 is combined with drug1.
+38: drug2 can cause a decrease in the absorption of drug1 resulting in a reduced serum concentration and potentially a decrease in efficacy.
+39: The risk or severity of gastrointestinal irritation can be increased when drug2 is combined with drug1.
+38: drug1 can cause a decrease in the absorption of drug2 resulting in a reduced serum concentration and potentially a decrease in efficacy.
+39: The risk or severity of gastrointestinal irritation can be increased when drug1 is combined with drug2.
+40: drug2 may increase the orthostatic hypotensive activities of drug1.
+40: drug1 may increase the orthostatic hypotensive activities of drug2.
+41: The risk or severity of myopathy and weakness can be increased when drug1 is combined with drug2.
+41: The risk or severity of myopathy and weakness can be increased when drug2 is combined with drug1.
+42: The risk or severity of Cardiac Arrhythmia can be increased when drug1 is combined with drug2.
+42: The risk or severity of Cardiac Arrhythmia can be increased when drug2 is combined with drug1.
+43: drug1 may increase the central nervous system depressant (CNS depressant) activities of drug2.
+43: drug2 may increase the central nervous system depressant (CNS depressant) activities of drug1.
+44: The serum concentration of the active metabolites of drug2 can be reduced when drug2 is used in combination with drug1 resulting in a loss in efficacy.
+44: The serum concentration of the active metabolites of drug1 can be reduced when drug1 is used in combination with drug2 resulting in a loss in efficacy.
+45: The risk or severity of peripheral neuropathy can be increased when drug1 is combined with drug2.
+45: The risk or severity of peripheral neuropathy can be increased when drug2 is combined with drug1.
+46: The risk or severity of jaw osteonecrosis and anti-angiogenesis can be increased when drug1 is combined with drug2.
+46: The risk or severity of jaw osteonecrosis and anti-angiogenesis can be increased when drug2 is combined with drug1.
+47: drug1 may increase the neuromuscular blocking activities of drug2.
+47: drug2 may increase the neuromuscular blocking activities of drug1.
+48: The risk or severity of hypokalemia can be increased when drug2 is combined with drug1.
+48: The risk or severity of hypokalemia can be increased when drug1 is combined with drug2.
+49: The risk or severity of hypertension can be increased when drug1 is combined with drug2.
+50: drug1 can cause an increase in the absorption of drug2 resulting in an increased serum concentration and potentially a worsening of adverse effects.
+49: The risk or severity of hypertension can be increased when drug2 is combined with drug1.
+50: drug2 can cause an increase in the absorption of drug1 resulting in an increased serum concentration and potentially a worsening of adverse effects.
+51: The risk or severity of hypotension can be increased when drug2 is combined with drug1.
+51: The risk or severity of hypotension can be increased when drug1 is combined with drug2.
+52: drug2 may decrease the cardiotoxic activities of drug1.
+53: The absorption of drug1 can be decreased when combined with drug2.
+52: drug1 may decrease the cardiotoxic activities of drug2.
+53: The absorption of drug2 can be decreased when combined with drug1.
+54: drug2 may increase the antiplatelet activities of drug1.
+54: drug1 may increase the antiplatelet activities of drug2.
+55: The risk or severity of tendinopathy can be increased when drug2 is combined with drug1.
+55: The risk or severity of tendinopathy can be increased when drug1 is combined with drug2.
+56: The risk or severity of hypocalcemia can be increased when drug1 is combined with drug2.
+56: The risk or severity of hypocalcemia can be increased when drug2 is combined with drug1.
+57: drug2 may decrease the antihypertensive activities of drug1.
+57: drug1 may decrease the antihypertensive activities of drug2.
+58: drug1 may increase the vasoconstricting activities of drug2.
+58: drug2 may increase the vasoconstricting activities of drug1.
+59: The risk or severity of edema formation can be increased when drug1 is combined with drug2.
+59: The risk or severity of edema formation can be increased when drug2 is combined with drug1.
+60: The risk or severity of gastrointestinal bleeding can be increased when drug1 is combined with drug2.
+60: The risk or severity of gastrointestinal bleeding can be increased when drug2 is combined with drug1.
+61: The risk or severity of pulmonary toxicity can be increased when drug1 is combined with drug2.
+61: The risk or severity of pulmonary toxicity can be increased when drug2 is combined with drug1.
+62: The risk or severity of electrolyte imbalance can be increased when drug2 is combined with drug1.
+62: The risk or severity of electrolyte imbalance can be increased when drug1 is combined with drug2.
+63: The risk or severity of congestive heart failure can be increased when drug1 is combined with drug2.
+64: The risk of a hypersensitivity reaction to drug2 is increased when it is combined with drug1.
+65: drug1 may increase the sedative activities of drug2.
+66: The risk or severity of respiratory depression can be increased when drug2 is combined with drug1.
+65: drug2 may increase the sedative activities of drug1.
+64: The risk of a hypersensitivity reaction to drug1 is increased when it is combined with drug2.
+63: The risk or severity of congestive heart failure can be increased when drug2 is combined with drug1.
+66: The risk or severity of respiratory depression can be increased when drug1 is combined with drug2.
+67: drug1 may increase the QTc-prolonging activities of drug2.
+67: drug2 may increase the QTc-prolonging activities of drug1.
+68: drug1 may increase the hepatotoxic activities of drug2.
+68: drug2 may increase the hepatotoxic activities of drug1.
+69: The risk or severity of anemia can be increased when drug1 is combined with drug2.
+70: The risk or severity of orthostatic hypotension and syncope can be increased when drug1 is combined with drug2.
+71: The risk or severity of hypotension and orthostatic hypotension can be increased when drug1 is combined with drug2.
+72: The risk or severity of sedation, somnolence, and CNS depression can be increased when drug2 is combined with drug1.
+73: The risk or severity of sedation can be increased when drug2 is combined with drug1.
+72: The risk or severity of sedation, somnolence, and CNS depression can be increased when drug1 is combined with drug2.
+74: drug2 may increase the hypokalemic activities of drug1.
+70: The risk or severity of orthostatic hypotension and syncope can be increased when drug2 is combined with drug1.
+73: The risk or severity of sedation can be increased when drug1 is combined with drug2.
+75: The risk or severity of fluid retention can be increased when drug2 is combined with drug1.
+69: The risk or severity of anemia can be increased when drug2 is combined with drug1.
+71: The risk or severity of hypotension and orthostatic hypotension can be increased when drug2 is combined with drug1.
+74: drug1 may increase the hypokalemic activities of drug2.
+75: The risk or severity of fluid retention can be increased when drug1 is combined with drug2.
+76: The risk or severity of liver damage can be increased when drug1 is combined with drug2.
+77: The risk or severity of increased transaminases can be increased when drug2 is combined with drug1.
+78: The risk or severity of bradycardia can be increased when drug2 is combined with drug1.
+76: The risk or severity of liver damage can be increased when drug2 is combined with drug1.
+77: The risk or severity of increased transaminases can be increased when drug1 is combined with drug2.
+78: The risk or severity of bradycardia can be increased when drug1 is combined with drug2.
+79: The risk or severity of thromboembolism can be increased when drug2 is combined with drug1.
+80: The risk or severity of adverse effects can be decreased when drug2 is combined with drug1.
+81: The risk or severity of sedation and CNS depression can be increased when drug2 is combined with drug1.
+82: The risk or severity of hypotension, sedation, death, somnolence, and respiratory depression can be increased when drug1 is combined with drug2.
+83: drug1 may increase the hypertensive activities of drug2.
+84: The risk or severity of bleeding and thrombocytopenia can be increased when drug1 is combined with drug2.
+83: drug2 may increase the hypertensive activities of drug1.
+85: The risk or severity of QTc prolongation and ventricular arrhythmias can be increased when drug2 is combined with drug1.
+86: The risk or severity of QTc prolongation and torsade de pointes can be increased when drug2 is combined with drug1.
+81: The risk or severity of sedation and CNS depression can be increased when drug1 is combined with drug2.
+79: The risk or severity of thromboembolism can be increased when drug1 is combined with drug2.
+80: The risk or severity of adverse effects can be decreased when drug1 is combined with drug2.
+85: The risk or severity of QTc prolongation and ventricular arrhythmias can be increased when drug1 is combined with drug2.
+86: The risk or severity of QTc prolongation and torsade de pointes can be increased when drug1 is combined with drug2.
+82: The risk or severity of hypotension, sedation, death, somnolence, and respiratory depression can be increased when drug2 is combined with drug1.
+84: The risk or severity of bleeding and thrombocytopenia can be increased when drug2 is combined with drug1.
+87: The serum concentration of dextroamphetamine, an active metabolite of drug2, can be increased when used in combination with drug1.
+88: The risk or severity of confusion, irritability, and sleep disorders can be increased when drug1 is combined with drug2.
+89: drug1 may increase the cardiotoxic activities of drug2.
+90: drug1 may increase the nephrotoxic activities of drug2.
+91: The risk or severity of neuromuscular blockade can be increased when drug2 is combined with drug1.
+92: drug2 may increase the uterotonic activities of drug1.
+92: drug1 may increase the uterotonic activities of drug2.
+90: drug2 may increase the nephrotoxic activities of drug1.
+93: The risk or severity of leukopenia can be increased when drug2 is combined with drug1.
+89: drug2 may increase the cardiotoxic activities of drug1.
+91: The risk or severity of neuromuscular blockade can be increased when drug1 is combined with drug2.
+87: The serum concentration of dextroamphetamine, an active metabolite of drug1, can be increased when used in combination with drug2.
+94: The risk or severity of gastrointestinal ulceration and gastrointestinal irritation can be increased when drug1 is combined with drug2.
+95: The risk or severity of ulceration can be increased when drug1 is combined with drug2.
+94: The risk or severity of gastrointestinal ulceration and gastrointestinal irritation can be increased when drug2 is combined with drug1.
+96: The risk or severity of ventricular arrhythmias, bradycardia, and heart block can be increased when drug1 is combined with drug2.
+96: The risk or severity of ventricular arrhythmias, bradycardia, and heart block can be increased when drug2 is combined with drug1.
+93: The risk or severity of leukopenia can be increased when drug1 is combined with drug2.
+88: The risk or severity of confusion, irritability, and sleep disorders can be increased when drug2 is combined with drug1.
+95: The risk or severity of ulceration can be increased when drug2 is combined with drug1.
