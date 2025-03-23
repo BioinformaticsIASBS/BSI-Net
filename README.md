@@ -14,7 +14,7 @@ Includes multiple Jupyter notebooks implementing different models.
 2. CNN.ipynb - Implements a convolutional neural network for DDI prediction.
 3. MLP.ipynb - Implements a multi-layer perceptron model.
 4. RF_XGB_SVM.ipynb - Implements traditional machine learning models (Random Forest, XGBoost, and SVM).
-
+### We  ran the results on a system with properties of two XEON E5-2680 v4 2.40 GHz CPUs, 64 GB RAM, and NVIDIA GeForce RTX 3060 12 GB.
 ### BibTex of our BSI-Net
 If you use CB-TIP in your research, please use the following BibTeX entry. Thank you!
 ```bibtex
