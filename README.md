@@ -18,7 +18,14 @@ Includes multiple Jupyter notebooks implementing different models.
 ### BibTex of our BSI-Net
 If you use CB-TIP in your research, please use the following BibTeX entry. Thank you!
 ```bibtex
-@article{
-
+@article{nasiri25,
+  title={A graph attention--based deep learning network for predicting biotech--small-molecule drug interactions},
+  author={Nasiri, Fatemeh and Hooshmand, Mohsen},
+  journal={Bioinformatics Advances},
+  volume={5},
+  number={1},
+  pages={vbaf192},
+  year={2025},
+  publisher={Oxford University Press}
 }
 ```
